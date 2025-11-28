@@ -1,0 +1,45 @@
+# Sensitive files - DO NOT COMMIT
+config.yaml
+*.env
+.env
+
+# SendGrid API keys
+sendgrid.key
+
+# Email archive (large file)
+all emails sent.eml
+
+# CSV exports (may contain sensitive data)
+*.csv
+
+# Word/PDF documents
+*.docx
+*.pdf
+
+# Log files
+logs/*.log
+
+# Queued emails (contain unsent content)
+queued/*.html
+
+# Sent emails (archived)
+sent/*.html
+
+# Ruby/Bundle
+.bundle/
+vendor/bundle/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+
+# Temporary files
+tmp/
+temp/

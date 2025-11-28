@@ -1,0 +1,43 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    date (3.5.0)
+    kramdown (2.5.1)
+      rexml (>= 3.3.9)
+    logger (1.7.0)
+    mail (2.9.0)
+      logger
+      mini_mime (>= 0.1.1)
+      net-imap
+      net-pop
+      net-smtp
+    mini_mime (1.1.5)
+    mini_portile2 (2.8.9)
+    net-imap (0.5.12)
+      date
+      net-protocol
+    net-pop (0.1.2)
+      net-protocol
+    net-protocol (0.2.2)
+      timeout
+    net-smtp (0.5.1)
+      net-protocol
+    nokogiri (1.18.10)
+      mini_portile2 (~> 2.8.2)
+      racc (~> 1.4)
+    racc (1.8.1)
+    reverse_markdown (2.1.1)
+      nokogiri
+    rexml (3.4.4)
+    timeout (0.4.4)
+
+PLATFORMS
+  x86_64-linux
+
+DEPENDENCIES
+  kramdown (~> 2.4)
+  mail (~> 2.8)
+  reverse_markdown (~> 2.1)
+
+BUNDLED WITH
+   2.3.7
