@@ -1,5 +1,4 @@
 ---
-edition_number: 41
 quote_text: It's the little things that make big things happen.
 quote_author: John Wooden
 subject_suffix: "Little big things \U0001F33B"

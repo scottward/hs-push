@@ -1,5 +1,4 @@
 ---
-edition_number: 39
 quote_text: An hour of thinking can save you a decade of work.
 quote_author: James Clear
 subject_suffix: Productivity hack ⚔️

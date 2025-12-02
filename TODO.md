@@ -1,0 +1,12 @@
+
+- [X] Confirm that we have all editions from Zapier
+- [X] Extract all edtions from Feb? to edition 34
+- [X] Load in all the missing editions from the 2025 file
+- [X] Get the missing andertoon ruls from the eml file based on quote
+- [X] Search all editions for a) duplicate andertoon urls or b) download the file to make sure it works and looks like a cartoon
+- [X] Redo the edition numbers to start at the beginning of the year: 46-51 become 1-6, 1 becomes 7+
+- [ ] Update the post sections to not be one blob of text
+  - [ ] And to have authors properly
+- [ ] Re-write the unreviewed editions
+- [ ] Scan all other files
+- [ ] Schedule

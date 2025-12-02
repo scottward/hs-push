@@ -13,9 +13,10 @@ if edition_files.empty?
 else
   puts "\n✓ Edition Files: #{edition_files.length} files"
 
-  # Parse edition numbers
+  # Parse edition numbers from filename (e.g., "34-start-smart.md" -> 34)
   edition_numbers = edition_files.map do |file|
-    if file =~ /edition-(\d+)-/
+    basename = File.basename(file)
+    if basename =~ /^(\d+)-/
       $1.to_i
     end
   end.compact.sort

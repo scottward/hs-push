@@ -1,7 +1,5 @@
 ---
-edition_number: 40
-quote_text: A 40 hour time-blocked work week produces the same amount of output as
-  a 60+ hour work week pursued without structure.
+quote_text: A 40 hour time-blocked work week produces the same amount of output as a 60+ hour work week pursued without structure.
 quote_author: Cal Newport
 subject_suffix: "Structure = freedom \U0001F6A9"
 hosted_cartoon_url: http://cdn.mcauto-images-production.sendgrid.net/37e2afd00f532162/43f09639-0325-4578-adc6-64c1a5a88dcd/1200x900.jpg

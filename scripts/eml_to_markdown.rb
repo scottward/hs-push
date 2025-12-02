@@ -106,9 +106,9 @@ messages.reverse.each do |message_text|
     # Skip if we don't have the essential data
     next unless quote_text && coaching_html && cartoon_url
 
-    # Generate filename-safe subject suffix
+    # Generate filename-safe subject suffix (edition number derived from filename, no "edition-" prefix)
     filename_suffix = subject_suffix.downcase.gsub(/[^a-z0-9\s-]/, '').gsub(/\s+/, '-')
-    filename = "editions/edition-#{edition_number.to_s.rjust(2, '0')}-#{filename_suffix}.md"
+    filename = "editions/#{edition_number}-#{filename_suffix}.md"
 
     # Skip if file already exists
     if File.exist?(filename)
@@ -131,9 +131,8 @@ messages.reverse.each do |message_text|
                                    .strip
     post_text += plain_coaching
 
-    # Create YAML front matter
+    # Create YAML front matter (edition_number derived from filename)
     front_matter = {
-      'edition_number' => edition_number,
       'quote_text' => quote_text.gsub('&rsquo;', "'").gsub('&#39;', "'").gsub('&quot;', '"'),
       'quote_author' => quote_author,
       'subject_suffix' => subject_suffix,

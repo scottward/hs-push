@@ -75,17 +75,16 @@ puts ""
 
 queued_count = 0
 current_date = start_date
+queued_files = []
 
 (options[:start]..options[:end]).each do |edition_num|
-  # Find the edition file (try different filename formats)
-  edition_files = Dir.glob("editions/edition-#{edition_num.to_s.rjust(2, '0')}-*.md")
+  # Find the edition file (filename starts with edition number)
+  edition_file = Dir.glob("editions/#{edition_num}-*.md").first
 
-  unless edition_files.length > 0
+  unless edition_file
     puts "Warning: Edition file not found for edition #{edition_num}"
     next
   end
-
-  edition_file = edition_files.first
   puts "Processing: #{edition_file}"
 
   # Read and parse the markdown file
@@ -116,7 +115,7 @@ current_date = start_date
   end
 
   # Validate required fields
-  required_fields = ['quote_text', 'quote_author', 'hosted_cartoon_url', 'subject_suffix', 'edition_number']
+  required_fields = ['quote_text', 'quote_author', 'hosted_cartoon_url', 'subject_suffix']
   missing_fields = required_fields.select { |field| !front_matter[field] || front_matter[field].to_s.strip.empty? }
 
   if missing_fields.length > 0
@@ -133,7 +132,7 @@ current_date = start_date
   html_output.gsub!('{{quote_author}}', front_matter['quote_author'])
   html_output.gsub!('{{coaching_html}}', coaching_html)
   html_output.gsub!('{{hosted_cartoon_url}}', front_matter['hosted_cartoon_url'])
-  html_output.gsub!('{{edition_number}}', front_matter['edition_number'].to_s)
+  html_output.gsub!('{{edition_number}}', edition_num.to_s)
 
   # Generate output filename with scheduled date/time
   date_str = current_date.strftime('%Y-%m-%d')
@@ -146,6 +145,7 @@ current_date = start_date
   puts "  → Queued: #{output_filename}"
   puts "     Scheduled for: #{date_str} at #{options[:start_time][0..1]}:#{options[:start_time][2..3]}"
 
+  queued_files << File.expand_path(output_filename)
   queued_count += 1
 
   # Increment date by 7 days for next edition
@@ -157,8 +157,13 @@ puts "=" * 60
 puts "Queueing complete!"
 puts "Queued #{queued_count} email(s) to the queued/ directory"
 puts ""
+puts "Review links (open in browser):"
+queued_files.each do |file_path|
+  puts "  file://#{file_path}"
+end
+puts ""
 puts "Next steps:"
-puts "1. Review the HTML files in queued/ to verify content"
-puts "2. Run: ruby scripts/schedule_queued_emails.rb"
+puts "1. Review the HTML files above to verify content"
+puts "2. Run: ruby scripts/schedule_emails.rb"
 puts "   This will schedule the emails via SendGrid API"
 puts "=" * 60

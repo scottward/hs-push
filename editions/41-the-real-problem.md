@@ -1,5 +1,4 @@
 ---
-edition_number: 35
 quote_text: Lack of direction, not lack of time, is the problem.
 quote_author: Zig Ziglar
 subject_suffix: "The real problem \U0001F914"

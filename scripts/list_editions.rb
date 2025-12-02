@@ -28,7 +28,9 @@ edition_files.each do |file|
 
     front_matter = YAML.load(parts[1])
 
-    edition_num = front_matter['edition_number']
+    # Extract edition number from filename (e.g., "34-start-smart.md" -> 34)
+    basename = File.basename(file)
+    edition_num = basename.match(/^(\d+)-/)[1].to_i rescue nil
     subject = front_matter['subject_suffix']
     sent_at = front_matter['last_sent_at']
     andertoon = front_matter['andertoon_number']

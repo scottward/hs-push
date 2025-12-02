@@ -5,6 +5,7 @@ require 'uri'
 require 'json'
 require 'yaml'
 require 'date'
+require 'time'
 require 'fileutils'
 require 'io/console'
 
@@ -142,8 +143,8 @@ queued_files.each do |html_file|
     html_content = File.read(html_file)
 
     # Find corresponding edition file to get subject
-    edition_files = Dir.glob("editions/edition-#{edition_num.to_s.rjust(2, '0')}-*.md")
-    unless edition_files.length > 0
+    edition_file = Dir.glob("editions/#{edition_num}-*.md").first
+    unless edition_file
       puts "  Error: Edition file not found for edition #{edition_num}"
       log.puts "  ERROR: Edition file not found"
       failed_count += 1
@@ -151,7 +152,7 @@ queued_files.each do |html_file|
     end
 
     # Read edition file to get subject suffix
-    edition_content = File.read(edition_files.first)
+    edition_content = File.read(edition_file)
     parts = edition_content.split(/^---\s*$/, 3)
     front_matter = YAML.load(parts[1])
     subject_suffix = front_matter['subject_suffix']
@@ -159,8 +160,8 @@ queued_files.each do |html_file|
     # Build full subject line with prefix
     subject = "#{subject_prefix}#{subject_suffix}"
 
-    # Build single send name using prefix and filename info
-    single_send_name = "#{name_prefix}#{date_str} #{time_str[0..1]}:#{time_str[2..3]} - Edition #{edition_num}"
+    # Build single send name: HS Push - #34 - Start Smart
+    single_send_name = "#{name_prefix.strip} - ##{edition_num} - #{subject_suffix}"
 
     puts "  Edition: #{edition_num}"
     puts "  Subject: #{subject}"
@@ -262,7 +263,6 @@ queued_files.each do |html_file|
         log.puts "  Moved to: #{sent_path}"
 
         # Update last_sent_at in edition file
-        edition_file = edition_files.first
         edition_content = File.read(edition_file)
         parts = edition_content.split(/^---\s*$/, 3)
         front_matter = YAML.load(parts[1])

@@ -43,9 +43,9 @@ CSV.foreach(csv_file, headers: true) do |row|
       next
     end
 
-    # Generate filename
+    # Generate filename (edition number derived from filename, no "edition-" prefix)
     filename_suffix = subject_suffix.downcase.gsub(/[^a-z0-9\s-]/, '').gsub(/\s+/, '-')
-    filename = "editions/edition-#{edition_number.to_s.rjust(2, '0')}-#{filename_suffix}.md"
+    filename = "editions/#{edition_number}-#{filename_suffix}.md"
 
     # Skip if file already exists (from .eml extraction)
     if File.exist?(filename)
@@ -76,9 +76,8 @@ CSV.foreach(csv_file, headers: true) do |row|
     # Parse feedback if present
     feedback = row['Feedback']&.strip || ""
 
-    # Create YAML front matter
+    # Create YAML front matter (edition_number derived from filename)
     front_matter = {
-      'edition_number' => edition_number,
       'quote_text' => quote_text,
       'quote_author' => quote_author,
       'subject_suffix' => subject_suffix,

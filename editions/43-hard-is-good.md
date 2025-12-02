@@ -1,5 +1,4 @@
 ---
-edition_number: 37
 quote_text: It's supposed to be hard.
 quote_author: Tom Hanks as Jimmy Dugan
 subject_suffix: "Hard is good \U0001F97E"

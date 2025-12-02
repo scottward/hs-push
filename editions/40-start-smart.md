@@ -1,10 +1,10 @@
 ---
-edition_number: 34
 quote_text: Choosing the priority is as important as working on it.
 quote_author: James Clear
 subject_suffix: "Start smart. \U0001F643"
 hosted_cartoon_url: http://cdn.mcauto-images-production.sendgrid.net/37e2afd00f532162/4305eb0c-df07-4989-a44c-ce06b174ef7c/1200x628.jpg
 andertoon_number: 8298
+last_sent_at: 2025-12-01 16:00:00 UTC
 ---
 
 ## Email Content

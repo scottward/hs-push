@@ -1,5 +1,4 @@
 ---
-edition_number: 38
 quote_text: If you're going through hell, keep going.
 quote_author: Winston Churchill
 subject_suffix: "Hell strategy \U0001F99E️"

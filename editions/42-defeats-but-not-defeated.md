@@ -1,5 +1,4 @@
 ---
-edition_number: 36
 quote_text: You may encounter many defeats, but you must not be defeated.
 quote_author: Maya Angelou
 subject_suffix: defeats, but not Defeated ⛰
