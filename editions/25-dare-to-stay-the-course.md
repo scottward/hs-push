@@ -23,9 +23,17 @@ All those struggles are normal.
 ## Post Text
 
 "To dare; that is the price of progress."
-— 
+— Victor Hugo, Les Misérables
 
-The first “dare” is to commit to a big goal. Dream big! Imagine what is possible and decide to go for it. The second “dare” is to pick between the hundreds of paths you could take to achieve the goal. It takes tremendous courage to commit to a specific strategy and say “No” to the other options. But focus is the only way to make progress. Keeping our options open dooms us to mediocrity. The third “dare” is to see the plan through. Persistence is magic. We all struggle to carry on after the excitement has worn off. We’re all tempted to change things up when we get bored. We all get tired and start to worry that what we’re doing isn’t going to work. All those struggles are normal. Stay the course.
+The first "dare" is to commit to a big goal. Dream big! Imagine what is possible and decide to go for it.
+
+The second "dare" is to pick between the hundreds of paths you could take to achieve the goal. It takes tremendous courage to commit to a specific strategy and say "No" to the other options. But focus is the only way to make progress. Keeping our options open dooms us to mediocrity.
+
+The third "dare" is to see the plan through. Persistence is magic. We all struggle to carry on after the excitement has worn off. We're all tempted to change things up when we get bored. We all get tired and start to worry that what we're doing isn't going to work.
+
+All those struggles are normal.
+
+Stay the course.
 
 ## Feedback
 

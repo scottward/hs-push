@@ -29,9 +29,23 @@ Even if you still miss the goal, at least **fail valiantly**.
 ## Post Text
 
 "It is not enough that we do our best; sometimes we must do what is required."
-—
+— Winston Churchill
 
-When a goal starts slipping, please, don't just accept the delay. Put up a fight! Pause and ask yourself: "What if achieving this goal was the only way to avoid something truly terrible? What if I acted as if delaying this goal was not an option?" Write down your desperate plan to achieve the goal on time. Your first ideas might feel overwhelming — they'll demand too much sacrifice. Keep writing more ideas. Often, before too long, you'll hit on an idea or two that are actually not that extreme — things you could actually try without sacrificing everything else. With creativity and courage, you can get your goals back on track. Even if you still miss the goal, at least fail valiantly.
+When a goal starts slipping, please, don't just accept the delay. Put up a fight!
+
+Pause and ask yourself: "What if achieving this goal was the only way to avoid something truly terrible? What if I acted as if delaying this goal was not an option?"
+
+Write down your desperate plan to achieve the goal on time.
+
+Your first ideas might feel overwhelming — they'll demand too much sacrifice.
+
+Keep writing more ideas.
+
+Often, before too long, you'll hit on an idea or two that are actually not that extreme — things you could actually try without sacrificing everything else.
+
+With creativity and courage, you can get your goals back on track.
+
+Even if you still miss the goal, at least fail valiantly.
 
 ## Feedback
 

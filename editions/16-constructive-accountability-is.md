@@ -23,9 +23,17 @@ It is about being honest with ourselves, not about being perfect.
 ## Post Text
 
 "Accountability separates the wishers in life from the action-takers that care enough about their future to account for their daily actions."
-—
+— John Di Lemme
 
-"Accountability" is not about scolding yourself or others. It is not about a person's character. It is about facts. It is transparently accounting for what you planned to do vs. what actually happened. It is taking responsibility to put in the work to win, even if you can't completely control the end results. It is a commitment to reflect and learn from your misses without recasting them as successes. It is about being honest with ourselves, not about being perfect.
+"Accountability" is not about scolding yourself or others. It is not about a person's character.
+
+It is about facts. It is transparently accounting for what you planned to do vs. what actually happened.
+
+It is taking responsibility to put in the work to win, even if you can't completely control the end results.
+
+It is a commitment to reflect and learn from your misses without recasting them as successes.
+
+It is about being honest with ourselves, not about being perfect.
 
 ## Feedback
 

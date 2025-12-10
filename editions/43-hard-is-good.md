@@ -27,21 +27,15 @@ Stay the course.
 "It's supposed to be hard."
 — Tom Hanks as Jimmy Dugan
 
-
 Consistently working on your bigger goals is hard.
-
 
 Do not take hardness as evidence that something is wrong.
 
-
 Important things are always hard to finish.
-
 
 If absolutely necessary, scale down your strategic work this week, but always move your key priorities forward, even in a small way.
 
-
 It’s supposed to be hard.
-
 
 Stay the course.
 

@@ -28,10 +28,24 @@ You can only achieve big things through consistency.
 
 ## Post Text
 
-"“It's easy to be great. It's hard to be consistent.”"
-— 
+"It's easy to be great. It's hard to be consistent."
+— Steve Marten
 
-You’re smart, talented, and capable of moments of brilliance. But that’s not enough. You also have to be consistent . To go far, you have to walk in the same direction for a long time. Willpower alone isn’t enough to carry you over the long haul. You need structured support and accountability. Whether you use HabitStack or create your own system, make sure you have the support you need to stay the course. You can only achieve big things through consistency.
+You're smart, talented, and capable of moments of brilliance.
+
+But that's not enough.
+
+You also have to be consistent.
+
+To go far, you have to walk in the same direction for a long time.
+
+Willpower alone isn't enough to carry you over the long haul.
+
+You need structured support and accountability.
+
+Whether you use HabitStack or create your own system, make sure you have the support you need to stay the course.
+
+You can only achieve big things through consistency.
 
 ## Feedback
 

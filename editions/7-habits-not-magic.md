@@ -21,9 +21,15 @@ With practice, you can build the habits that make you exceptional.
 ## Post Text
 
 "Exceptional founders have the ability to think long term, even while sprinting to stay alive."
-— 
+— Pete Flint, Founder and Investor
 
-Investing in big-picture projects while you scramble to hold everything together in the short term is tough. But you don't have to be some magically gifted "exceptional" leader to do it. The key is to systematically identify your strategic priorities, break them down to actionable steps, and build a routine that helps you carve out the time to focus on doing that bigger picture work every week, no matter what. With practice, you can build the habits that make you exceptional.
+Investing in big-picture projects while you scramble to hold everything together in the short term is tough.
+
+But you don't have to be some magically gifted "exceptional" leader to do it.
+
+The key is to systematically identify your strategic priorities, break them down to actionable steps, and build a routine that helps you carve out the time to focus on doing that bigger picture work every week, no matter what.
+
+With practice, you can build the habits that make you exceptional.
 
 ## Feedback
 

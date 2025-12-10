@@ -19,13 +19,10 @@ For example, you can control your “goal hygiene”. In other words, follow the
 
 Specifically, there are four habits that protect your goals from self-defeat:
 
-\* FOCUS on a small number of meaningful goals.
-
-\* CHUNK them down from the year → quarter → month → week.
-
-\* TRACK the sub goals to understand real progress.
-
-\* RATE your confidence regularly so you can adjust course as needed.
+ * FOCUS on a small number of meaningful goals.
+ * CHUNK them down from the year → quarter → month → week.
+ * TRACK the sub goals to understand real progress.
+ * RATE your confidence regularly so you can adjust course as needed.
 
 These practices help you avoid unforced errors.
 

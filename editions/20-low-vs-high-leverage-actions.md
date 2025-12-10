@@ -23,9 +23,17 @@ However, growing as a strategic leader means shifting your emphasis to high leve
 ## Post Text
 
 "What's the one thing you can do such that by doing it, everything else will be easier or unnecessary?"
-—
+— Gary Keller
 
-Are the actions you have planned for this week "low leverage" or "high leverage"? Low leverage actions give you a 1:1 return on your energy. The effort and the impact are roughly equal. They are well understood and routine. For example, ops meetings, clearing your inbox, admin tasks, etc. High leverage actions deliver a much higher return on your energy (ideally 10X or more). These are strategic projects that make things better forever. They solve problems at the category level, not just one instance at a time. They break the company through to a new level of opportunity. Of course, you can't eliminate low leverage tasks. However, growing as a strategic leader means shifting your emphasis to high leverage work.
+Are the actions you have planned for this week "low leverage" or "high leverage"?
+
+Low leverage actions give you a 1:1 return on your energy. The effort and the impact are roughly equal. They are well understood and routine. For example, ops meetings, clearing your inbox, admin tasks, etc.
+
+High leverage actions deliver a much higher return on your energy (ideally 10X or more). These are strategic projects that make things better forever. They solve problems at the category level, not just one instance at a time. They break the company through to a new level of opportunity.
+
+Of course, you can't eliminate low leverage tasks.
+
+However, growing as a strategic leader means shifting your emphasis to high leverage work.
 
 ## Feedback
 

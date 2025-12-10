@@ -21,9 +21,15 @@ Finishing important projects takes 3 times more focus than we predict.
 ## Post Text
 
 "The person who chases two rabbits, catches neither."
-— 
+— Confucius
 
-The logic in the quote above is obvious. But, over and over, we try to do too many things at once. If we aren't grieving over what we've decided NOT to do, we're not focused enough. Finishing important projects takes 3 times more focus than we predict.
+The logic in the quote above is obvious.
+
+But, over and over, we try to do too many things at once.
+
+If we aren't grieving over what we've decided NOT to do, we're not focused enough.
+
+Finishing important projects takes 3 times more focus than we predict.
 
 ## Feedback
 

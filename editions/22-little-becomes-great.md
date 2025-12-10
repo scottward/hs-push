@@ -21,9 +21,15 @@ Little bits of progress, over time, become something great.
 ## Post Text
 
 "If you add only a little to a little and do this often, soon that little will become great."
-— 
+— Hesiod, Greek poet
 
-We all want to achieve big things. But, to do that, we have to be willing to pay the price. In the context of strategic goals, the price we pay is consistent, weekly progress , even though we're busy. Little bits of progress, over time, become something great.
+We all want to achieve big things.
+
+But, to do that, we have to be willing to pay the price.
+
+In the context of strategic goals, the price we pay is consistent, weekly progress, even though we're busy.
+
+Little bits of progress, over time, become something great.
 
 ## Feedback
 

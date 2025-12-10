@@ -25,9 +25,19 @@ You might as well not feel guilty about it.
 ## Post Text
 
 "The more you try to do, the less you actually accomplish."
-— 
+— The 4 Disciplines of Execution
 
-Stop. Think about all the things you "have to do". Pick one task, even if it is small, and kill it. Just decide that you're not going to do it. Because, really, you're not going to get to it anyway. You might as well not feel guilty about it.
+Stop.
+
+Think about all the things you "have to do".
+
+Pick one task, even if it is small, and kill it.
+
+Just decide that you're not going to do it.
+
+Because, really, you're not going to get to it anyway.
+
+You might as well not feel guilty about it.
 
 ## Feedback
 

@@ -23,9 +23,17 @@ Dare to pull out all the stops when necessary.
 ## Post Text
 
 "Effective goal execution requires you to take responsibility for things you have no business taking responsibility for."
-— 
+— Scott Ward
 
-Let’s not blame our missed goals on external factors. Other people have their own priorities, and they only partially align with ours. Now, we can’t force people to do what we want them to do. We shouldn’t manipulate or bully others. Obviously, let’s stay kind and open-hearted and positive. But we can do a lot better than saying, “I asked for what I needed and they didn’t get it to me on time”. Ask again. Call them instead of sending another email. Dare to be slightly annoying in your persistence. Build a relationship. Help them understand what your goal means to you and the company. Visit them in person. Dare to pull out all the stops when necessary.
+Let's not blame our missed goals on external factors. Other people have their own priorities, and they only partially align with ours.
+
+Now, we can't force people to do what we want them to do. We shouldn't manipulate or bully others. Obviously, let's stay kind and open-hearted and positive.
+
+But we can do a lot better than saying, "I asked for what I needed and they didn't get it to me on time".
+
+Ask again. Call them instead of sending another email. Dare to be slightly annoying in your persistence. Build a relationship. Help them understand what your goal means to you and the company. Visit them in person.
+
+Dare to pull out all the stops when necessary.
 
 ## Feedback
 

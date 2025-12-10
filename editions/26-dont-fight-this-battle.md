@@ -29,9 +29,23 @@ This makes strategic work feel more urgent — and helps you overcome the pull o
 ## Post Text
 
 "If you ignore the urgent, it can kill you today. If you ignore the important, it can kill you tomorrow."
-—
+— The 4 Disciplines of Execution
 
-We're wired to feel stressed when demands pile up on our time and attention. We instinctively jump to fix whatever's burning right now. But when it comes to longer-term strategic work — even if it promises big impact — we rarely react with the same intensity. Why? Because the payoff is months or years away. When we're pressed, it is tempting to push strategic work to another day — even though that behavior will kill your company in the long term. For all of us, there's a never-ending battle between what's urgent and what's important. My recommendation? Don't fight the battle. Instead, make weekly deadlines for yourself to complete small strategic tasks that connect to longer-term important goals. Ask your team (or others in your life) for accountability to complete those weekly commitments. This makes strategic work feel more urgent — and helps you overcome the pull of short-termism.
+We're wired to feel stressed when demands pile up on our time and attention. We instinctively jump to fix whatever's burning right now.
+
+But when it comes to longer-term strategic work — even if it promises big impact — we rarely react with the same intensity. Why? Because the payoff is months or years away.
+
+When we're pressed, it is tempting to push strategic work to another day — even though that behavior will kill your company in the long term.
+
+For all of us, there's a never-ending battle between what's urgent and what's important.
+
+My recommendation? Don't fight the battle.
+
+Instead, make weekly deadlines for yourself to complete small strategic tasks that connect to longer-term important goals.
+
+Ask your team (or others in your life) for accountability to complete those weekly commitments.
+
+This makes strategic work feel more urgent — and helps you overcome the pull of short-termism.
 
 ## Feedback
 

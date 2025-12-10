@@ -24,9 +24,7 @@ They’re a poor gauge of progress.
 Some recommendations:
 
 - Set objective milestones that you can measure yourself against.
-
 - Include input and learning goals, not just outcomes like revenue.
-
 - Remind yourself that if you persist, you will prevail.
 
 Bottom line: Feel what you feel, but judge your progress by evidence, not emotion.

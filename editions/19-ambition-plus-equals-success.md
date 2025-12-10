@@ -25,9 +25,19 @@ The effort is worth it: when you combine ambition with discipline, you achieve b
 ## Post Text
 
 "Too often, a team's ambition outstrips its discipline."
-—
+— Unknown
 
-Ambitious goals are a spark that gets you moving. But ambitious goals alone won't sustain your motivation. You can't create discipline just by setting an exciting goal. Excitement ebbs and flows; you can't rely on it for consistent progress. Discipline is a habit you strengthen through practice. The effort is worth it: when you combine ambition with discipline, you achieve bigger things.
+Ambitious goals are a spark that gets you moving.
+
+But ambitious goals alone won't sustain your motivation.
+
+You can't create discipline just by setting an exciting goal.
+
+Excitement ebbs and flows; you can't rely on it for consistent progress.
+
+Discipline is a habit you strengthen through practice.
+
+The effort is worth it: when you combine ambition with discipline, you achieve bigger things.
 
 ## Feedback
 

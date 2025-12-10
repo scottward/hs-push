@@ -25,9 +25,19 @@ Time to get religious about blocking out time on your calendar to work on the th
 ## Post Text
 
 "The key is not to prioritize what's on your schedule, but to schedule your priorities."
-—
+— Stephen Covey
 
-Your to-do list contains things you might do at some point. Your email contains things other people want you to do. Your calendar contains things that you are going to do. Struggling to find time for your biggest goals? "If it's not on the calendar, it doesn't exist" (Michael Toomey). Time to get religious about blocking out time on your calendar to work on the things that matter most.
+Your to-do list contains things you might do at some point.
+
+Your email contains things other people want you to do.
+
+Your calendar contains things that you are going to do.
+
+Struggling to find time for your biggest goals?
+
+"If it's not on the calendar, it doesn't exist" (Michael Toomey).
+
+Time to get religious about blocking out time on your calendar to work on the things that matter most.
 
 ## Feedback
 

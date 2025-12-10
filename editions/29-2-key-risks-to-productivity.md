@@ -21,9 +21,15 @@ I recommend you schedule at least an hour of reflection early in each week. Then
 ## Post Text
 
 "The biggest risk to productivity is always the same: working on the wrong thing."
-—
+— James Clear
 
-No amount of hustle will help if you're working on the wrong thing. It is so easy to plunge into one task after another as they come up. We need to slow down, breathe, review the bigger picture, and double-check that our tasks align with our goals. On the other hand, the second biggest risk to productivity is overthinking. "Action begets clarity." Often, getting started reveals more than more analysis ever will. Constantly second-guessing ourselves keeps us chasing our tails. I recommend you schedule at least an hour of reflection early in each week. Then, for the rest of the week, prioritize execution. Even if you start to wonder if you're working on the right things, keep going. Don't second-guess. You can course-correct in your next reflection time. This approach keeps you working on the right things, without falling into the trap of overthinking.
+No amount of hustle will help if you're working on the wrong thing. It is so easy to plunge into one task after another as they come up. We need to slow down, breathe, review the bigger picture, and double-check that our tasks align with our goals.
+
+On the other hand, the second biggest risk to productivity is overthinking. "Action begets clarity." Often, getting started reveals more than more analysis ever will. Constantly second-guessing ourselves keeps us chasing our tails.
+
+I recommend you schedule at least an hour of reflection early in each week. Then, for the rest of the week, prioritize execution. Even if you start to wonder if you're working on the right things, keep going. Don't second-guess. You can course-correct in your next reflection time.
+
+This approach keeps you working on the right things, without falling into the trap of overthinking.
 
 ## Feedback
 

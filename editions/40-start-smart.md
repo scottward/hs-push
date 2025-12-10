@@ -33,30 +33,21 @@ P.S. Did you just read through the above without actually doing it? Go back and 
 "Choosing the priority is as important as working on it."
 — James Clear
 
-
 Stop.
-
 
 Don’t rush into the week. 
 
-
 Don’t impulsively dive into whatever is top of mind.
-
 
 Slow down just for a moment.
 
-
 Pull up your goals from wherever you have them written down.
-
 
 Read them over. Remember the reasons why.
 
-
 From that, write down your priorities for the week.
 
-
 And now…execute!
-
 
 P.S. Did you just read through the above without actually doing it? Go back and do it now. Seriously!
 

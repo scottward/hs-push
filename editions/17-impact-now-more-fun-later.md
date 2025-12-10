@@ -27,9 +27,21 @@ Your future self will thank you.
 ## Post Text
 
 "Prioritization is an euphemism for sacrificing."
-—
+— Pedro Lopes
 
-Some projects are close to our hearts. We just really want to work on them right now, even though they aren't 100% aligned to our biggest goals. So, we find some (tenuous) connection and get busy on that fun project. Of course, it is OK to have side projects that we're excited about "just because". But...it is also fun to achieve our larger goals. Consider sacrificing some of the fun work in order to do the strategic work that directly impacts your larger objective. Your future self will thank you.
+Some projects are close to our hearts.
+
+We just really want to work on them right now, even though they aren't 100% aligned to our biggest goals.
+
+So, we find some (tenuous) connection and get busy on that fun project.
+
+Of course, it is OK to have side projects that we're excited about "just because".
+
+But...it is also fun to achieve our larger goals.
+
+Consider sacrificing some of the fun work in order to do the strategic work that directly impacts your larger objective.
+
+Your future self will thank you.
 
 ## Feedback
 

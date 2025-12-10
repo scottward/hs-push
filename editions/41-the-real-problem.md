@@ -27,21 +27,15 @@ Chunking goals down plus keeping the list small gives you just the right amount 
 "Lack of direction, not lack of time, is the problem."
 — Zig Ziglar
 
-
 Actually, “lack of direction” is NOT usually the problem.
-
 
 The more common problem is overabundance of possible directions.
 
-
 When you have more than three “priorities”, overwhelm kicks in hard.
-
 
 The solution is to set yearly goals and break them down to the quarter, then to the month, then to the week.
 
-
 When you add an additional goal midstream, force yourself to remove an old one. Don’t just implicitly add more goals to your mental list!
-
 
 Chunking goals down plus keeping the list small gives you just the right amount of direction to stay productive.
 

@@ -21,9 +21,15 @@ Only then can you sustain your focus long enough to achieve notable things.
 ## Post Text
 
 "Goals without routines are wishes."
-— 
+— Verne Harnish
 
-Goal setting is a prerequisite for aligning your actions with your aspirations. But simply having clear goals isn't enough. You also need good goal habits . Only then can you sustain your focus long enough to achieve notable things.
+Goal setting is a prerequisite for aligning your actions with your aspirations.
+
+But simply having clear goals isn't enough.
+
+You also need good goal habits.
+
+Only then can you sustain your focus long enough to achieve notable things.
 
 ## Feedback
 

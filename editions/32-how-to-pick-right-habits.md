@@ -29,10 +29,26 @@ The “right” habits are usually small and easy.
 
 ## Post Text
 
-"There’s nothing you can’t do if you get the habits right."
-— 
+"There's nothing you can't do if you get the habits right."
+— Charles Duhigg
 
-“Getting the habits” right sounds simple—but it's anything but. I recommend you start with the size of the habit. Identify what you want to start doing, then create a smaller habit that supports it. For example, let’s say you want to start working on your strategic goals more (not just daily work). You decide to shoot for 4 hours of strategic work per week. Don’t set that as your target. Set two smaller habits instead: At the beginning of the week, schedule 4 hours of strategic work on your calendar. Track the number of strategic work hours you actually do. You’re far more likely to follow through with these two smaller habits. And they will end up building the bigger habit over time. The “right” habits are usually small and easy.
+"Getting the habits" right sounds simple—but it's anything but.
+
+I recommend you start with the size of the habit. Identify what you want to start doing, then create a smaller habit that supports it.
+
+For example, let's say you want to start working on your strategic goals more (not just daily work). You decide to shoot for 4 hours of strategic work per week. Don't set that as your target.
+
+Set two smaller habits instead:
+
+1. At the beginning of the week, schedule 4 hours of strategic work on your calendar.
+
+2. Track the number of strategic work hours you actually do.
+
+You're far more likely to follow through with these two smaller habits.
+
+And they will end up building the bigger habit over time.
+
+The "right" habits are usually small and easy.
 
 ## Feedback
 

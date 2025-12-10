@@ -23,9 +23,17 @@ And clarity gives courage.
 ## Post Text
 
 "Fatigue makes cowards of us all."
-— 
+— George S. Patton Jr.
 
-Mental fatigue blurs priorities and stalls action on what matters most. When you’re feeling overloaded, don’t just keep thrashing forward. Stop and get everything out of your head by writing it all down. By the time you’re done writing, you’ll have clarity. And clarity gives courage.
+Mental fatigue blurs priorities and stalls action on what matters most.
+
+When you're feeling overloaded, don't just keep thrashing forward.
+
+Stop and get everything out of your head by writing it all down.
+
+By the time you're done writing, you'll have clarity.
+
+And clarity gives courage.
 
 ## Feedback
 

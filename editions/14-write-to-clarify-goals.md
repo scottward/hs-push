@@ -19,9 +19,13 @@ You'll be surprised by the important clarifications that come out of the writing
 ## Post Text
 
 "Everything is vague to a degree you do not realise until you have tried to make it precise."
-— 
+— Bertrand Russell
 
-The goals in our head are far more vague than we realize. That's why we have to write down precisely what we plan to do and why. You'll be surprised by the important clarifications that come out of the writing process.
+The goals in our head are far more vague than we realize.
+
+That's why we have to write down precisely what we plan to do and why.
+
+You'll be surprised by the important clarifications that come out of the writing process.
 
 ## Feedback
 

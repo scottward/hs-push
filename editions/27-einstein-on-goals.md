@@ -31,9 +31,25 @@ See what I mean? 🙂
 ## Post Text
 
 "If you can't explain it simply, you don't understand it well enough."
-— 
+— Albert Einstein
 
-Chances are, the goals in your head are probably more muddled than you realize. And your daily tasks probably don’t fully align with your long-term goals. How do I know? Because you’re a human. We generally overestimate how clearly we understand ourselves and our goals. That’s why writing out your goals along with a simple explanation for why they are the right goals is so useful. It forces you to think more deeply and get clear on what you’re doing and why. It's the fastest way to double your clarity on what you’re all about. P.S. You might be thinking, 'That could be true for others, but I’m pretty clear.' See what I mean? 🙂
+Chances are, the goals in your head are probably more muddled than you realize.
+
+And your daily tasks probably don't fully align with your long-term goals.
+
+How do I know?
+
+Because you're a human.
+
+We generally overestimate how clearly we understand ourselves and our goals.
+
+That's why writing out your goals along with a simple explanation for why they are the right goals is so useful. It forces you to think more deeply and get clear on what you're doing and why.
+
+It's the fastest way to double your clarity on what you're all about.
+
+P.S. You might be thinking, 'That could be true for others, but I'm pretty clear.'
+
+See what I mean?
 
 ## Feedback
 
