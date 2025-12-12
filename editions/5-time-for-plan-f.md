@@ -5,7 +5,6 @@ subject_suffix: Time for Plan F 🦔
 last_sent_at: '2025-02-03T16:01:03+00:00'
 hosted_cartoon_url: http://cdn.mcauto-images-production.sendgrid.net/37e2afd00f532162/7422b0e4-f4c0-41b5-a1d8-74851c73ee9d/1200x900.jpg
 andertoon_number: 6627
-last_updated: 2025-12-10
 ---
 
 ## Email Content

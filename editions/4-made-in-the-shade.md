@@ -1,11 +1,11 @@
 ---
-quote_text: Someone's sitting in the shade today because someone planted a tree a long time ago.
+quote_text: Someone's sitting in the shade today because someone planted a tree a
+  long time ago.
 quote_author: Warren Buffett
-subject_suffix: Made in the shade 🌴
-last_sent_at: '2025-01-27T16:01:37+00:00'
+subject_suffix: "Made in the shade \U0001F334"
+last_sent_at: 2026-01-26 16:00:00 UTC
 hosted_cartoon_url: http://cdn.mcauto-images-production.sendgrid.net/37e2afd00f532162/bdbd79ae-0244-43f1-bf0d-4042a0026014/1200x900.jpg
 andertoon_number: 9229
-last_updated: 2025-12-10
 ---
 
 ## Email Content

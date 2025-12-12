@@ -1,11 +1,10 @@
 ---
 quote_text: 80% of success is showing up.
 quote_author: Woody Allen
-subject_suffix: 80% of success is… 🐙
-last_sent_at: '2025-01-06T16:00:45+00:00'
+subject_suffix: "80% of success is… \U0001F419"
+last_sent_at: 2026-01-05 16:00:00 UTC
 hosted_cartoon_url: http://cdn.mcauto-images-production.sendgrid.net/37e2afd00f532162/d2c88c57-0b9e-4e01-8755-187b0f95909a/1200x900.jpg
 andertoon_number: 8151
-last_updated: 2025-12-02
 ---
 
 ## Email Content

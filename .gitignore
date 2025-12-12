@@ -20,10 +20,10 @@ all emails sent.eml
 logs/*.log
 
 # Queued emails (contain unsent content)
-queued/*.html
+# queued/*.html
 
-# Sent emails (archived)
-sent/*.html
+# Sent test emails
+sent-test/*.html
 
 # Ruby/Bundle
 .bundle/

@@ -1,11 +1,10 @@
 ---
 quote_text: Recognition is the greatest motivator.
 quote_author: Unknown
-subject_suffix: Motivation hack 🦔
-last_sent_at: '2025-01-13T16:15:36+00:00'
+subject_suffix: "Motivation hack \U0001F994"
+last_sent_at: 2026-01-12 16:00:00 UTC
 hosted_cartoon_url: http://cdn.mcauto-images-production.sendgrid.net/37e2afd00f532162/32ac3ebf-d07f-4e09-9c6b-d1a9df8f009b/1200x900.jpg
 andertoon_number: 9225
-last_updated: 2025-12-10
 ---
 
 ## Email Content

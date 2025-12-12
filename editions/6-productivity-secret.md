@@ -5,7 +5,6 @@ subject_suffix: Reflect less often 🐻
 last_sent_at: '2025-02-10T16:01:07+00:00'
 hosted_cartoon_url: http://cdn.mcauto-images-production.sendgrid.net/37e2afd00f532162/b3004731-9312-44c1-8974-2030cb495977/1200x900.jpg
 andertoon_number: 9115
-last_updated: 2025-12-10
 ---
 
 ## Email Content
