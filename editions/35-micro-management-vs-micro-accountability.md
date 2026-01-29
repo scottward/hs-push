@@ -2,7 +2,7 @@
 quote_text: Micromanagement is the destroyer of momentum.
 quote_author: Miles Anthony Smith
 subject_suffix: Micro-management vs. Micro-accountability 🔬
-last_sent_at: '2025-09-01T15:16:09+00:00'
+last_sent_at: '2026-08-24 15:00:00 UTC'
 hosted_cartoon_url: http://cdn.mcauto-images-production.sendgrid.net/37e2afd00f532162/a5a38448-984c-4715-aeaa-68a487237ed1/1200x900.jpg
 andertoon_number: 704
 ---

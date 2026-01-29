@@ -4,7 +4,7 @@ quote_author: Tom Hanks as Jimmy Dugan
 subject_suffix: "Hard is good \U0001F97E"
 hosted_cartoon_url: http://cdn.mcauto-images-production.sendgrid.net/37e2afd00f532162/ffd3b604-3bb9-4d7d-a957-27f854b2cb5f/1200x900.jpg
 andertoon_number: 7748
-last_sent_at: '2025-10-20T08:00:00+00:00'
+last_sent_at: '2026-10-19 15:00:00 UTC'
 ---
 
 ## Email Content

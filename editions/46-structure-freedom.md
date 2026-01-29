@@ -4,7 +4,7 @@ quote_author: Cal Newport
 subject_suffix: "Structure = freedom \U0001F6A9"
 hosted_cartoon_url: http://cdn.mcauto-images-production.sendgrid.net/37e2afd00f532162/43f09639-0325-4578-adc6-64c1a5a88dcd/1200x900.jpg
 andertoon_number: 7537
-last_sent_at: '2025-11-10T08:00:00+00:00'
+last_sent_at: '2026-11-09 16:00:00 UTC'
 ---
 
 ## Email Content

@@ -2,7 +2,7 @@
 quote_text: If you don't put the big rocks in first, you'll never get them in at all.
 quote_author: Stephen R. Covey
 subject_suffix: Big rocks first 🪨
-last_sent_at: '2025-03-17T15:01:14+00:00'
+last_sent_at: '2026-03-16 15:00:00 UTC'
 hosted_cartoon_url: http://cdn.mcauto-images-production.sendgrid.net/37e2afd00f532162/ebc220c0-4fda-4083-9218-6d6e409e5f13/1200x1046.png
 andertoon_number: 9178
 ---

@@ -2,7 +2,7 @@
 quote_text: What got you here won't get you there.
 quote_author: Marshall Goldsmith
 subject_suffix: Habits for scale 🔔
-last_sent_at: '2025-09-29T15:01:04+00:00'
+last_sent_at: '2026-09-21 15:00:00 UTC'
 hosted_cartoon_url: http://cdn.mcauto-images-production.sendgrid.net/37e2afd00f532162/e2364e10-3501-4e7f-b9dd-63c63184b8ca/1200x900.jpg
 andertoon_number: 7450
 ---

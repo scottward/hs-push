@@ -2,7 +2,7 @@
 quote_text: Effective goal execution requires you to take responsibility for things you have no business taking responsibility for.
 quote_author: Scott Ward
 subject_suffix: Dare to annoy 🏓
-last_sent_at: '2025-09-15T15:00:54+00:00'
+last_sent_at: '2026-09-07 15:00:00 UTC'
 hosted_cartoon_url: http://cdn.mcauto-images-production.sendgrid.net/37e2afd00f532162/e732a7cf-f8c6-4d6b-986e-119280c76c1e/1200x900.jpg
 andertoon_number: 8809
 ---

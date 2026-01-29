@@ -2,7 +2,7 @@
 quote_text: The secret to being productive is to work on the right thing.
 quote_author: James Clear
 subject_suffix: Reflect less often 🐻
-last_sent_at: '2025-02-10T16:01:07+00:00'
+last_sent_at: '2026-02-09 16:00:00 UTC'
 hosted_cartoon_url: http://cdn.mcauto-images-production.sendgrid.net/37e2afd00f532162/b3004731-9312-44c1-8974-2030cb495977/1200x900.jpg
 andertoon_number: 9115
 ---

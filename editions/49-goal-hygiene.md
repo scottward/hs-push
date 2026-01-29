@@ -4,7 +4,7 @@ quote_author: Jason Cohen
 subject_suffix: "Goal hygiene \U0001FAA5"
 hosted_cartoon_url: http://cdn.mcauto-images-production.sendgrid.net/37e2afd00f532162/3e73d95f-7380-4af1-bfdb-6ce93ee8a15e/1200x900.jpg
 andertoon_number: 5021
-last_sent_at: '2025-12-01T08:00:00+00:00'
+last_sent_at: '2026-11-30 16:00:00 UTC'
 ---
 
 ## Email Content

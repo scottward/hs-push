@@ -2,7 +2,7 @@
 quote_text: Discipline is choosing between what you want now and what you want most.
 quote_author: Abraham Lincoln
 subject_suffix: Want it now or want it most? 🐘
-last_sent_at:
+last_sent_at: '2026-08-31 15:00:00 UTC'
 hosted_cartoon_url: http://cdn.mcauto-images-production.sendgrid.net/37e2afd00f532162/6ce21f26-2011-4731-b1a8-ff5a71fc3ac4/1200x900.jpg
 andertoon_number: 8348
 ---

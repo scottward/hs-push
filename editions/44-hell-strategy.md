@@ -4,7 +4,7 @@ quote_author: Winston Churchill
 subject_suffix: "Hell strategy \U0001F99E️"
 hosted_cartoon_url: http://cdn.mcauto-images-production.sendgrid.net/37e2afd00f532162/3a5d7b45-0c07-4fa1-94ba-eb28423d90e7/1200x900.jpg
 andertoon_number: 7386
-last_sent_at: '2025-10-27T08:00:00+00:00'
+last_sent_at: '2026-10-26 15:00:00 UTC'
 ---
 
 ## Email Content

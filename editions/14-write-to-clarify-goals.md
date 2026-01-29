@@ -2,7 +2,7 @@
 quote_text: Everything is vague to a degree you do not realise until you have tried to make it precise.
 quote_author: Bertrand Russell
 subject_suffix: Write to clarify goals 💡
-last_sent_at: '2025-04-07T15:00:39+00:00'
+last_sent_at: '2026-04-06 15:00:00 UTC'
 hosted_cartoon_url: http://cdn.mcauto-images-production.sendgrid.net/37e2afd00f532162/ea1f6f43-d530-4bb9-9e65-892cb633f358/1200x900.jpg
 andertoon_number: 507
 ---

@@ -2,7 +2,7 @@
 quote_text: The key is not to prioritize what's on your schedule, but to schedule your priorities.
 quote_author: Stephen Covey
 subject_suffix: Mobster appointments 💰
-last_sent_at:
+last_sent_at: '2026-05-04 15:00:00 UTC'
 hosted_cartoon_url: http://cdn.mcauto-images-production.sendgrid.net/37e2afd00f532162/1fa788ae-bcec-4538-92e4-ce3b5b72932d/1200x900.jpg
 andertoon_number: 8016
 ---

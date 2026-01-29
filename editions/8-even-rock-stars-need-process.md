@@ -2,7 +2,7 @@
 quote_text: You can only go so far without process.
 quote_author: Bono, Actual Rock Star, U2
 subject_suffix: Even rock stars need process 🎸
-last_sent_at: '2025-02-24T16:15:32+00:00'
+last_sent_at: '2026-02-23 16:00:00 UTC'
 hosted_cartoon_url: http://cdn.mcauto-images-production.sendgrid.net/37e2afd00f532162/d16b2c8f-5147-41fb-9a99-7289d8e66ece/1200x1200.jpg
 andertoon_number:
 ---

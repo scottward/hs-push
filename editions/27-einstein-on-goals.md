@@ -2,7 +2,7 @@
 quote_text: If you can't explain it simply, you don't understand it well enough.
 quote_author: Albert Einstein
 subject_suffix: Einstein on goals 🥼
-last_sent_at: '2025-07-07T15:00:57+00:00'
+last_sent_at: '2026-07-06 15:00:00 UTC'
 hosted_cartoon_url: http://cdn.mcauto-images-production.sendgrid.net/37e2afd00f532162/8fae926a-01de-4c53-91c9-ce681e7c5c49/1200x900.jpg
 andertoon_number: 502
 ---

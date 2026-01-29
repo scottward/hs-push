@@ -4,7 +4,7 @@ quote_author: James Clear
 subject_suffix: Productivity hack ⚔️
 hosted_cartoon_url: http://cdn.mcauto-images-production.sendgrid.net/37e2afd00f532162/f7aa0974-de89-4d34-b85e-c44d0707fb8e/1200x900.jpg
 andertoon_number: 8868
-last_sent_at: '2025-11-03T08:00:00+00:00'
+last_sent_at: '2026-11-02 16:00:00 UTC'
 ---
 
 ## Email Content

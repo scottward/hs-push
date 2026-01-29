@@ -2,7 +2,7 @@
 quote_text: Goals without routines are wishes.
 quote_author: Verne Harnish
 subject_suffix: Goal habits 💪
-last_sent_at: '2025-05-26T15:01:22+00:00'
+last_sent_at: '2026-05-25 15:00:00 UTC'
 hosted_cartoon_url: http://cdn.mcauto-images-production.sendgrid.net/37e2afd00f532162/cd827c09-aee9-4a1c-9d3f-e47b4232bc8f/1200x900.jpg
 andertoon_number: 7605
 ---

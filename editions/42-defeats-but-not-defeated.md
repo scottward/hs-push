@@ -4,7 +4,7 @@ quote_author: Maya Angelou
 subject_suffix: defeats, but not Defeated ⛰
 hosted_cartoon_url: http://cdn.mcauto-images-production.sendgrid.net/37e2afd00f532162/3a65e8db-0deb-451e-b07e-057543d6551a/1200x900.jpg
 andertoon_number: 8902
-last_sent_at: '2025-10-13T08:00:00+00:00'
+last_sent_at: '2026-10-12 15:00:00 UTC'
 ---
 
 ## Email Content

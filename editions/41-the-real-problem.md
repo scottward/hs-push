@@ -4,7 +4,7 @@ quote_author: Zig Ziglar
 subject_suffix: "The real problem \U0001F914"
 hosted_cartoon_url: http://cdn.mcauto-images-production.sendgrid.net/37e2afd00f532162/2425efef-e048-4652-a4f5-99274cb7a3f7/1200x900.jpg
 andertoon_number: 1011
-last_sent_at: '2025-10-06T08:00:00+00:00'
+last_sent_at: '2026-10-05 15:00:00 UTC'
 ---
 
 ## Email Content

@@ -2,7 +2,7 @@
 quote_text: No amount of intellectual prowess or personal charisma can make up for an inability to identify a few simple things and stick to them over time.
 quote_author: Patrick Lencioni
 subject_suffix: Our intelligence betrays us? 😳
-last_sent_at:
+last_sent_at: '2026-06-08 15:00:00 UTC'
 hosted_cartoon_url: http://cdn.mcauto-images-production.sendgrid.net/37e2afd00f532162/3dcf7b40-640b-483e-84a7-f5e2ce1c0b66/1200x900.jpg
 andertoon_number: 7179
 ---

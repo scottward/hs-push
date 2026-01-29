@@ -2,7 +2,7 @@
 quote_text: Exceptional founders have the ability to think long term, even while sprinting to stay alive.
 quote_author: Pete Flint, Founder and Investor
 subject_suffix: Habits, not magic 🎩
-last_sent_at: '2025-02-17T16:00:45+00:00'
+last_sent_at: '2026-02-16 16:00:00 UTC'
 hosted_cartoon_url: http://cdn.mcauto-images-production.sendgrid.net/37e2afd00f532162/a52c37d0-97f2-4261-a557-37eb9ea4bc64/1200x1200.jpg
 andertoon_number:
 ---

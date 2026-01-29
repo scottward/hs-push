@@ -2,7 +2,7 @@
 quote_text: Most of us tend to work harder to avoid losses than to pursue gains.
 quote_author: Bob Nease
 subject_suffix: Reconfigure your instincts 🔀
-last_sent_at:
+last_sent_at: '2026-04-13 15:00:00 UTC'
 hosted_cartoon_url: http://cdn.mcauto-images-production.sendgrid.net/37e2afd00f532162/0dfcf289-3d31-4790-895f-cfaeee34b3b2/1200x628.jpg
 andertoon_number: 1101
 ---

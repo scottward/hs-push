@@ -2,7 +2,7 @@
 quote_text: Too often, a team's ambition outstrips its discipline.
 quote_author: Unknown
 subject_suffix: Ambition + ❓ = success 🤔
-last_sent_at:
+last_sent_at: '2026-05-11 15:00:00 UTC'
 hosted_cartoon_url: http://cdn.mcauto-images-production.sendgrid.net/37e2afd00f532162/5ca01238-239e-499e-a86d-9a70af6ca470/1200x1200.jpg
 andertoon_number: 7333
 ---

@@ -2,7 +2,7 @@
 quote_text: Focus is more important than genius.
 quote_author: Greg McKeown
 subject_suffix: Focus beats genius 🏋
-last_sent_at: '2025-07-14T15:01:06+00:00'
+last_sent_at: '2026-07-13 15:00:00 UTC'
 hosted_cartoon_url: http://cdn.mcauto-images-production.sendgrid.net/37e2afd00f532162/cd3d23fc-4018-4cda-ba53-798c74d2e7f4/1200x900.jpg
 andertoon_number: 511
 ---

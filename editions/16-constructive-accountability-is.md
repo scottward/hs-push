@@ -2,7 +2,7 @@
 quote_text: Accountability separates the wishers in life from the action-takers that care enough about their future to account for their daily actions.
 quote_author: John Di Lemme
 subject_suffix: Constructive accountability is... 🏗️
-last_sent_at:
+last_sent_at: '2026-04-20 15:00:00 UTC'
 hosted_cartoon_url: http://cdn.mcauto-images-production.sendgrid.net/37e2afd00f532162/dc7c22e1-efb2-4b29-9723-ad8a0fc812c9/1200x900.jpg
 andertoon_number: 7632
 ---

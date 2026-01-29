@@ -2,7 +2,7 @@
 quote_text: Reasonable expectations return mediocre results.
 quote_author: Kieran Ryan
 subject_suffix: Refuse to fail ⛰
-last_sent_at:
+last_sent_at: '2026-08-10 15:00:00 UTC'
 hosted_cartoon_url: http://cdn.mcauto-images-production.sendgrid.net/37e2afd00f532162/1d9aabb4-9f53-46c1-b9e5-671c41baeb4c/1200x900.jpg
 andertoon_number: 8639
 ---

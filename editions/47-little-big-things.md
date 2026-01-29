@@ -4,7 +4,7 @@ quote_author: John Wooden
 subject_suffix: "Little big things \U0001F33B"
 hosted_cartoon_url: http://cdn.mcauto-images-production.sendgrid.net/37e2afd00f532162/253cc03e-365f-4552-9f80-50f8b9dd59e5/1200x900.jpg
 andertoon_number: 7089
-last_sent_at: '2025-11-17T08:00:00+00:00'
+last_sent_at: '2026-11-16 16:00:00 UTC'
 ---
 
 ## Email Content

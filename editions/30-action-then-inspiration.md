@@ -2,7 +2,7 @@
 quote_text: Inspiration is for amateurs; the rest of us just show up and get to work.
 quote_author: Chuck Close
 subject_suffix: Action then inspiration 🚁
-last_sent_at:
+last_sent_at: '2026-07-20 15:00:00 UTC'
 hosted_cartoon_url: http://cdn.mcauto-images-production.sendgrid.net/37e2afd00f532162/948b225f-3bb1-4d2e-bc62-24a5872b45e5/1200x900.jpg
 andertoon_number: 8873
 ---

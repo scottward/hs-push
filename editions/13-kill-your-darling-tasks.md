@@ -2,7 +2,7 @@
 quote_text: The more you try to do, the less you actually accomplish.
 quote_author: The 4 Disciplines of Execution
 subject_suffix: Kill your darling tasks 🔪
-last_sent_at: '2025-03-31T15:15:54+00:00'
+last_sent_at: '2026-03-30 15:00:00 UTC'
 hosted_cartoon_url: http://cdn.mcauto-images-production.sendgrid.net/37e2afd00f532162/f44b72c3-c15a-43d2-93e3-5e8f2b75804c/1200x1041.png
 andertoon_number: 9143
 ---

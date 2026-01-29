@@ -2,7 +2,7 @@
 quote_text: A bad system will beat a good person every time.
 quote_author: Edwards Deming
 subject_suffix: Bad systems beat good people 🤔
-last_sent_at: '2025-08-04T15:01:34+00:00'
+last_sent_at: '2026-07-27 15:00:00 UTC'
 hosted_cartoon_url: http://cdn.mcauto-images-production.sendgrid.net/37e2afd00f532162/0b62a09c-93ac-448f-8435-207ca8b38969/1200x900.jpg
 andertoon_number: 105
 ---

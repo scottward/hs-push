@@ -4,7 +4,7 @@ quote_author: Mike Murdock
 subject_suffix: "Daily routine secret \U0001F92B"
 hosted_cartoon_url: http://cdn.mcauto-images-production.sendgrid.net/37e2afd00f532162/1b27904a-cf34-48d6-88bc-fa8e120d80c7/1200x900.jpg
 andertoon_number: 8951
-last_sent_at: '2025-11-24T08:00:00+00:00'
+last_sent_at: '2026-11-23 16:00:00 UTC'
 ---
 
 ## Email Content

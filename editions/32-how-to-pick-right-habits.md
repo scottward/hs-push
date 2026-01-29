@@ -2,7 +2,7 @@
 quote_text: There’s nothing you can’t do if you get the habits right.
 quote_author: Charles Duhigg
 subject_suffix: How to pick "right" habits 🐥
-last_sent_at: '2025-08-11T15:16:01+00:00'
+last_sent_at: '2026-08-03 15:00:00 UTC'
 hosted_cartoon_url: http://cdn.mcauto-images-production.sendgrid.net/37e2afd00f532162/fc9c949f-79db-4f02-9448-c91d45d8140e/1200x900.jpg
 andertoon_number: 7462
 ---

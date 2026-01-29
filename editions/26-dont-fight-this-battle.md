@@ -2,7 +2,7 @@
 quote_text: If you ignore the urgent, it can kill you today. If you ignore the important, it can kill you tomorrow.
 quote_author: The 4 Disciplines of Execution
 subject_suffix: Don't fight this battle 🏳
-last_sent_at:
+last_sent_at: '2026-06-29 15:00:00 UTC'
 hosted_cartoon_url: http://cdn.mcauto-images-production.sendgrid.net/37e2afd00f532162/625fd771-895d-4b26-9f4e-6fa1ceb924b4/1200x792.png
 andertoon_number: 701
 ---

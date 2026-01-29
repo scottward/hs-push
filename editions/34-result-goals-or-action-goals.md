@@ -2,7 +2,7 @@
 quote_text: You don't get results by focusing on results. You get results by focusing on the actions that produce results.
 quote_author: Mike Hawkins
 subject_suffix: Result goals or action goals? 🕺
-last_sent_at:
+last_sent_at: '2026-08-17 15:00:00 UTC'
 hosted_cartoon_url: http://cdn.mcauto-images-production.sendgrid.net/37e2afd00f532162/5ab6fcc6-ca79-4a00-8273-7eafc2aa6b6d/1200x900.jpg
 andertoon_number: 8455
 ---

@@ -2,7 +2,7 @@
 quote_text: To dare; that is the price of progress.
 quote_author: Victor Hugo, Les Misérables
 subject_suffix: Dare to stay the course🦸‍♀️
-last_sent_at: '2025-06-23T15:15:37+00:00'
+last_sent_at: '2026-06-22 15:00:00 UTC'
 hosted_cartoon_url: http://cdn.mcauto-images-production.sendgrid.net/37e2afd00f532162/d00a9537-f2a3-4c98-8fad-653ccb9872f1/250x204.gif
 andertoon_number:
 ---

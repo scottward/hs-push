@@ -100,6 +100,40 @@ if queued_files.empty?
 end
 
 puts "Found #{queued_files.length} queued email(s)"
+puts ""
+
+# Parse file info for summary
+file_info = queued_files.map do |f|
+  fname = File.basename(f)
+  if fname =~ /^(\d{4}-\d{2}-\d{2})-\d{4}-edition-(\d+)-/
+    { date: $1, edition: $2.to_i, filename: fname }
+  else
+    { date: "unknown", edition: 0, filename: fname }
+  end
+end
+
+first_date = file_info.first[:date]
+last_date = file_info.last[:date]
+editions = file_info.map { |f| f[:edition] }.sort
+
+puts "  Date range: #{first_date} to #{last_date}"
+puts "  Editions: #{editions.first}-#{editions.last} (#{editions.join(', ')})"
+puts ""
+
+# Confirmation prompt for live mode
+if live_mode
+  puts "=" * 60
+  puts "⚠️  You are about to schedule #{queued_files.length} emails to PRODUCTION."
+  puts "=" * 60
+  print "Type 'yes' to continue: "
+  confirmation = STDIN.gets.chomp
+  unless confirmation.downcase == 'yes'
+    puts "Aborted."
+    exit 0
+  end
+  puts ""
+end
+
 puts "=" * 60
 
 # Create log file
@@ -134,9 +168,10 @@ queued_files.each do |html_file|
       send_timestamp = send_time.to_i
     rescue => e
       puts "  Error: Failed to parse date/time from filename: #{e.message}"
+      puts "  ⛔ Stopping due to error."
       log.puts "  ERROR: Failed to parse date/time: #{e.message}"
       failed_count += 1
-      next
+      break
     end
 
     # Read HTML content
@@ -146,9 +181,10 @@ queued_files.each do |html_file|
     edition_file = Dir.glob("editions/#{edition_num}-*.md").first
     unless edition_file
       puts "  Error: Edition file not found for edition #{edition_num}"
+      puts "  ⛔ Stopping due to error."
       log.puts "  ERROR: Edition file not found"
       failed_count += 1
-      next
+      break
     end
 
     # Read edition file to get subject suffix
@@ -218,10 +254,11 @@ queued_files.each do |html_file|
       unless create_response.code.to_i >= 200 && create_response.code.to_i < 300
         puts "  ✗ Failed to create: HTTP #{create_response.code}"
         puts "  Response: #{create_response.body}"
+        puts "  ⛔ Stopping due to error."
         log.puts "  FAILED TO CREATE: HTTP #{create_response.code}"
         log.puts "  Response: #{create_response.body}"
         failed_count += 1
-        next
+        break
       end
 
       # Parse the response to get the single send ID
@@ -256,47 +293,64 @@ queued_files.each do |html_file|
         log.puts "  SUCCESS: HTTP #{response.code}"
         log.puts "  Response: #{response.body}" if response.body && !response.body.empty?
 
-        # Move file to appropriate sent directory
+        # Move or copy file to appropriate sent directory
         sent_path = "#{sent_dir}/#{filename}"
-        FileUtils.mv(html_file, sent_path)
-        puts "  Moved to: #{sent_path}"
-        log.puts "  Moved to: #{sent_path}"
-
-        # Update last_sent_at in edition file
-        edition_content = File.read(edition_file)
-        parts = edition_content.split(/^---\s*$/, 3)
-        front_matter = YAML.load(parts[1])
-        front_matter['last_sent_at'] = send_time.to_s
-
-        File.open(edition_file, 'w') do |f|
-          f.puts front_matter.to_yaml
-          f.puts "---"
-          f.puts parts[2]
+        if live_mode
+          FileUtils.mv(html_file, sent_path)
+          puts "  Moved to: #{sent_path}"
+          log.puts "  Moved to: #{sent_path}"
+        else
+          FileUtils.cp(html_file, sent_path)
+          puts "  Copied to: #{sent_path} (original remains in queued/)"
+          log.puts "  Copied to: #{sent_path}"
         end
+
+        # Update last_sent_at in edition file (surgical replacement to preserve formatting)
+        edition_content = File.read(edition_file)
+        new_timestamp = send_time.strftime('%Y-%m-%d %H:%M:%S %Z')
+
+        if edition_content =~ /^last_sent_at:.*$/
+          # Replace existing last_sent_at line
+          updated_content = edition_content.gsub(/^last_sent_at:.*$/, "last_sent_at: '#{new_timestamp}'")
+        else
+          # Add last_sent_at after subject_suffix line
+          updated_content = edition_content.gsub(/^(subject_suffix:.*)$/, "\\1\nlast_sent_at: '#{new_timestamp}'")
+        end
+
+        File.write(edition_file, updated_content)
         puts "  Updated last_sent_at in #{File.basename(edition_file)}"
         log.puts "  Updated edition file"
 
         scheduled_count += 1
+
+        # Delay between requests to avoid overwhelming SendGrid API
+        sleep(2)
       else
-        puts "  ✗ Failed: HTTP #{response.code}"
+        puts "  ✗ Failed to schedule: HTTP #{response.code}"
         puts "  Response: #{response.body}"
+        puts "  ⛔ Stopping due to error."
         log.puts "  FAILED: HTTP #{response.code}"
         log.puts "  Response: #{response.body}"
         failed_count += 1
+        break
       end
 
     rescue => e
       puts "  ✗ Error: #{e.message}"
       puts "  #{e.backtrace.first}"
+      puts "  ⛔ Stopping due to error."
       log.puts "  ERROR: #{e.message}"
       log.puts "  #{e.backtrace.join("\n  ")}"
       failed_count += 1
+      break
     end
 
   else
     puts "  Error: Invalid filename format"
+    puts "  ⛔ Stopping due to error."
     log.puts "  ERROR: Invalid filename format"
     failed_count += 1
+    break
   end
 
   log.puts ""
@@ -304,17 +358,29 @@ end
 
 log.puts ""
 log.puts "=" * 60
-log.puts "Scheduling complete!"
-log.puts "Successfully scheduled: #{scheduled_count}"
-log.puts "Failed: #{failed_count}"
+if failed_count > 0
+  log.puts "Stopped due to failure!"
+  log.puts "Successfully scheduled: #{scheduled_count}"
+  log.puts "Failed: #{failed_count}"
+  log.puts "Remaining: #{queued_files.length - scheduled_count - failed_count}"
+else
+  log.puts "Scheduling complete!"
+  log.puts "Successfully scheduled: #{scheduled_count}"
+end
 log.puts "=" * 60
 log.close
 
 puts ""
 puts "=" * 60
-puts "Scheduling complete!"
-puts "Successfully scheduled: #{scheduled_count}"
-puts "Failed: #{failed_count}"
+if failed_count > 0
+  puts "⛔ Stopped due to failure!"
+  puts "Successfully scheduled: #{scheduled_count}"
+  puts "Failed: #{failed_count}"
+  puts "Remaining: #{queued_files.length - scheduled_count - failed_count}"
+else
+  puts "Scheduling complete!"
+  puts "Successfully scheduled: #{scheduled_count}"
+end
 puts ""
 puts "Log saved to: #{log_file}"
 puts ""

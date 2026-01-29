@@ -2,7 +2,7 @@
 quote_text: It's easy to be great. It's hard to be consistent.
 quote_author: Steve Marten
 subject_suffix: Greatness vs. consistency 🌱
-last_sent_at: '2025-03-10T15:01:27+00:00'
+last_sent_at: '2026-03-09 15:00:00 UTC'
 hosted_cartoon_url: http://cdn.mcauto-images-production.sendgrid.net/37e2afd00f532162/73e1f2ee-cd19-4787-b954-80ab5f63e62e/1200x1200.jpg
 andertoon_number: 7734
 ---

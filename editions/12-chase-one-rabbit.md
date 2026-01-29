@@ -2,7 +2,7 @@
 quote_text: The person who chases two rabbits, catches neither.
 quote_author: Confucius
 subject_suffix: Chase one rabbit 🐰
-last_sent_at: '2025-03-24T15:01:49+00:00'
+last_sent_at: '2026-03-23 15:00:00 UTC'
 hosted_cartoon_url: http://cdn.mcauto-images-production.sendgrid.net/37e2afd00f532162/aeb1dc60-b64c-492e-ad9f-1dda7d703b61/1200x1049.png
 andertoon_number: 310
 ---

@@ -2,7 +2,7 @@
 quote_text: You should be far more concerned with your current trajectory than with your current results.
 quote_author: James Clear
 subject_suffix: Break 'em down 🪚
-last_sent_at:
+last_sent_at: '2026-03-02 16:00:00 UTC'
 hosted_cartoon_url: http://cdn.mcauto-images-production.sendgrid.net/37e2afd00f532162/59f1b7bb-ebe1-4c03-9d3d-e4bda186f466/1200x1200.jpg
 andertoon_number:
 ---

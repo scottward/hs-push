@@ -2,7 +2,7 @@
 quote_text: What's the one thing you can do such that by doing it, everything else will be easier or unnecessary?
 quote_author: Gary Keller
 subject_suffix: Low vs. High Leverage Actions ⚖️
-last_sent_at:
+last_sent_at: '2026-05-18 15:00:00 UTC'
 hosted_cartoon_url: http://cdn.mcauto-images-production.sendgrid.net/37e2afd00f532162/74c9afda-d655-4bef-87ba-16a2f115ea1e/1200x900.jpg
 andertoon_number: 813
 ---

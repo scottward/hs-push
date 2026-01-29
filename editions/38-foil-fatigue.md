@@ -2,7 +2,7 @@
 quote_text: Fatigue makes cowards of us all.
 quote_author: George S. Patton Jr.
 subject_suffix: Foil fatigue 🦍
-last_sent_at: '2025-09-22T15:01:09+00:00'
+last_sent_at: '2026-09-14 15:00:00 UTC'
 hosted_cartoon_url: http://cdn.mcauto-images-production.sendgrid.net/37e2afd00f532162/83169523-6740-4b48-abdc-2911ddc7a7c6/1200x900.jpg
 andertoon_number: 402
 ---

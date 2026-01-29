@@ -2,7 +2,7 @@
 quote_text: It is not enough that we do our best; sometimes we must do what is required.
 quote_author: Winston Churchill
 subject_suffix: Fail valiantly 🎖
-last_sent_at:
+last_sent_at: '2026-06-15 15:00:00 UTC'
 hosted_cartoon_url: http://cdn.mcauto-images-production.sendgrid.net/37e2afd00f532162/ce429b07-b26c-455a-bb2f-de246afff895/1200x786.png
 andertoon_number: 8781
 ---

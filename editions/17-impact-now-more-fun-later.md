@@ -2,7 +2,7 @@
 quote_text: Prioritization is an euphemism for sacrificing.
 quote_author: Pedro Lopes
 subject_suffix: Impact now, more fun later 😅
-last_sent_at:
+last_sent_at: '2026-04-27 15:00:00 UTC'
 hosted_cartoon_url: http://cdn.mcauto-images-production.sendgrid.net/37e2afd00f532162/002e9605-9597-41fd-a1cc-949fafd337d0/1200x900.jpg
 andertoon_number:
 ---
